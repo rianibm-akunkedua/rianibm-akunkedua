@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Riani BM
+- 👋 Hi, I’m Riani BM, a growth UX Engineer
 - 👀 I’m interested in research and design
-- 🌱 I’m currently learning product management
+- 🌱 I’m currently learning accessibility in product design
 - 📫 Reach me through rianimatialu@gmail.com
 
 <!---
